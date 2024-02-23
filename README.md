@@ -15,9 +15,7 @@ Utilizing Excel, we employed ETL techniques, data modeling, DAX measures, pivot 
 **Dependencies**
 
 - MySQL Workbench 8.0 CE: Utilized for managing and querying the MySQL database.
-
 - PowerBI: Used for data visualization and dashboard creation.
-
 - Excel: Leveraged for data analysis, modeling, and report generation.
 
 **Problem Statement**: The Sales Director, faced challenges in tracking sales in a dynamically growing market and extracting insights effectively. Conversations with location managers were verbal, and insights were provided through Excel files, leading to frustration and inefficiency. The sales director sought a simple dashboard for daily insights, eliminating the need for manual calls and enabling data-driven decisions.
