@@ -26,11 +26,11 @@ Excel: Leveraged for data analysis, modeling, and report generation.
  Bhavin Patel, the Sales Director, faced challenges in tracking sales in a dynamically growing market and extracting insights effectively. Conversations with location managers were verbal, and insights were provided through Excel files, leading to frustration and inefficiency. Bhavin sought a simple dashboard for daily insights, eliminating the need for manual calls and enabling data-driven decisions.
 
 **Project Stakeholders**
-Sales Director
-IT Department
-Marketing Team
-Customer Service Team
-Data Analytics Team
+- Sales Director
+- IT Department
+- Marketing Team
+- Customer Service Team
+- Data Analytics Team
 
 **End Result**
 The end goal was to develop a PowerBI dashboard for streamlined insights and reporting, enhancing decision-making processes.
