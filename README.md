@@ -5,11 +5,9 @@ This project aimed to analyze sales and financial data for Atliq Hardware, a pro
 
 **Challenges**
 
-Data Integration: Combining data from various sources (retailers, direct stores, distributors) for consistent analysis.
-
-Insightful Reporting: Creating reports that go beyond raw numbers to provide actionable insights.
-
-Optimized Report Generation: Streamlining data processing and analysis for faster turnaround times.
+- Data Integration: Combining data from various sources (retailers, direct stores, distributors) for consistent analysis.
+- Insightful Reporting: Creating reports that go beyond raw numbers to provide actionable insights.
+- Optimized Report Generation: Streamlining data processing and analysis for faster turnaround times.
 
 **Solution Overview**
 Utilizing Excel, we employed ETL techniques, data modeling, DAX measures, pivot tables, and Power Query to extract, transform, clean, and analyze data. The focus was on developing user-centric reports presented in a clear, concise, and visually appealing format.
