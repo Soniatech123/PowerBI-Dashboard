@@ -15,6 +15,7 @@ Optimized Report Generation: Streamlining data processing and analysis for faste
 Utilizing Excel, we employed ETL techniques, data modeling, DAX measures, pivot tables, and Power Query to extract, transform, clean, and analyze data. The focus was on developing user-centric reports presented in a clear, concise, and visually appealing format.
 
 **Dependencies**
+
 MySQL Workbench 8.0 CE: Utilized for managing and querying the MySQL database.
 
 PowerBI: Used for data visualization and dashboard creation.
@@ -39,12 +40,6 @@ Implementation of PowerBI dashboard.
 User-friendly interface for easy access to insights.
 Automation of data extraction and reporting processes.
 
-**Dependencies**
-
-MySQL Workbench 8.0 CE: Utilized for managing and querying the MySQL database.
-PowerBI: Used for data visualization and dashboard creation.
-Excel: Leveraged for data analysis, modeling, and report generation.
-
 **Implementation Details**
 Data Extraction and Transformation
 Sales Management System: Developed by Atliq's software engineers, storing sales and invoice data in MySQL.
@@ -64,3 +59,8 @@ By implementing an efficient data analysis pipeline and developing user-centric 
 Enhance dashboard capabilities with advanced analytics and predictive modeling.
 Incorporate feedback mechanisms for continuous improvement.
 Expand data sources and integrate with external systems for comprehensive insights.
+
+**References**
+
+Resource| Data Analyst Roadmap 2024. (n.d.). Codebasics. Retrieved February 23, 2024, from https://codebasics.io/resources/data-analyst-roadmap-2024
+
