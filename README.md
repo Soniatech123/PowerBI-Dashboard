@@ -1,4 +1,4 @@
-**Project Report: Sales Analysis for Atliq Hardware**
+**Project Report**
 
  **Introduction**
 This project aimed to analyze sales and financial data for Atliq Hardware, a prominent hardware products provider. By leveraging data Analysis skills and creating insightful reports, the objective was to offer actionable insights and optimize report generation for accuracy, timeliness, and efficiency.
